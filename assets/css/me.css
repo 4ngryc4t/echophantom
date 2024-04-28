@@ -98,7 +98,7 @@ body.page-template-page-fullsingle-me {
   background-color: #141414;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 45px;
+  font-size: 40px;
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #999999;
@@ -112,6 +112,13 @@ body.page-template-page-fullsingle-me {
       body.page-template-page-fullsingle-me p {
         font-size: 25px;
         line-height: 40px; } }
+
+  @media (max-width: 800px) {
+    body.page-template-page-fullsingle-me {
+      background-color: rgba(0,0,0,0.3);
+    background-blend-mode: multiply;
+    }
+  }
 
 .fs-me {
   padding: 10vh 10vw;
