@@ -120,6 +120,16 @@ body.page-template-page-fullsingle-me {
     }
   }
 
+  .pfont {
+    font-size: 20px !important;
+  }
+
+  @media (max-width: 800px) {
+    .pfont {
+      font-size: 17px !important;
+    }
+  }
+
 .fs-me {
   padding: 10vh 10vw;
   overflow: hidden;
@@ -187,7 +197,7 @@ body.page-template-page-fullsingle-me {
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: #DDDDDD;
     -webkit-transition: 1s;
     transition: 1s; }
     .bio a:hover {
