@@ -98,7 +98,7 @@ body.page-template-page-fullsingle-me {
   background-color: #141414;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 35px;
+  font-size: 45px;
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #999999;
@@ -110,7 +110,7 @@ body.page-template-page-fullsingle-me {
     color: #999999; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
-        font-size: 32px;
+        font-size: 25px;
         line-height: 40px; } }
 
 .fs-me {
