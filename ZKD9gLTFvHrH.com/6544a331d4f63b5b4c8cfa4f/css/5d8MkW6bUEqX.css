@@ -7026,7 +7026,7 @@ figcaption {
 		grid-auto-columns: 1fr
 	}
 	.home-clients-logos-inner {
-		width: 900px;
+		width: 500px;
 	}
 	.home-process-grid-left {
 		height: 100vw;
@@ -7641,7 +7641,7 @@ figcaption {
 		grid-row-gap: 80px
 	}
 	.home-clients-logos-inner {
-		width: 800px
+		width: 500px
 	}
 	.home-clients-logo-image {
 		height: 25px
