@@ -6083,7 +6083,8 @@ figcaption {
 	grid-column-gap: 2rem;
 	grid-row-gap: 2rem;
 	flex-direction: column;
-	display: flex
+	display: flex;
+	text-align: center;
 }
 .section-home-testimonials {
 	padding-top: 0rem;
@@ -6091,7 +6092,7 @@ figcaption {
 }
 
 .section-home-process {
-    padding-top: 6rem;
+    padding-top: 4rem;
     padding-bottom: 8rem;
 }
 .home-testimonials-grid, .home-testimonials-grid-inner {
@@ -6517,7 +6518,8 @@ figcaption {
 		padding-right: 4rem
 	}
 	.home-process-grid-right {
-		padding: 6rem
+		padding: 6rem;
+		padding-top: 5rem;
 	}
 	.home-mission-grid {
 		grid-column-gap: 8rem;
@@ -7647,11 +7649,12 @@ figcaption {
 		height: 25px
 	}
 	.home-process-grid-left {
-		height: 120vw;
+		height: 80vw;
 		border-radius: 1.5rem
 	}
 	.home-process-grid-right {
-		padding: 2.5rem
+		padding: 2.5rem;
+		padding-top: 5rem;
 	}
 	.home-process-grid {
 		grid-column-gap: 1.5rem;
@@ -7899,7 +7902,7 @@ figcaption {
 		margin: 4rem
 	}
 	.padding-xhuge {
-		padding: 3.5rem
+		padding: 6rem
 	}
 	.margin-top {
 		margin-bottom: 0;
@@ -7962,7 +7965,7 @@ figcaption {
 		max-width: none
 	}
 	.navbar-right {
-		grid-column-gap: 1rem;
+		grid-column-gap: 0rem;
 		grid-row-gap: 1rem
 	}
 	.navbar-wrapper {
@@ -8108,7 +8111,7 @@ figcaption {
 		grid-row-gap: 1.25rem
 	}
 	.label.w--current, .navbar-right-button {
-		display: none
+		transform: scale(0.8);
 	}
 	.scroll-down {
 		grid-column-gap: .75rem;
@@ -8140,7 +8143,7 @@ figcaption {
 		grid-template-columns: auto auto;
 	}
 	.home-process-grid-left {
-		height: 160vw;
+		height: 70vw;
 		border-radius: 1rem
 	}
 	.home-process-grid-right {
