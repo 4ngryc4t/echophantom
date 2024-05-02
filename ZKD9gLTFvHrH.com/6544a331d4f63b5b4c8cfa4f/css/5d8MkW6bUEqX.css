@@ -4089,7 +4089,6 @@ figcaption {
 }
 .navbar-wrapper {
 	z-index: 9999;
-	border-bottom: var(--_global--border-width)solid var(--_global-colors--border-inverse);
 	padding: 1.5rem 2rem
 }
 .header {
